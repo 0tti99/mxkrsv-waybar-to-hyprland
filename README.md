@@ -1,5 +1,5 @@
 # mxkrsv-waybar-to-hyprland
-This is my Hyprland adaptation to mxkrsv's waybar implementation
+This is my Hyprland adaptation of mxkrsv's waybar implementation.\n
 Original: https://github.com/mxkrsv/dotfiles/tree/master/.config/waybar
 
 
